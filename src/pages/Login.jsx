@@ -1,8 +1,6 @@
 const Login = () => {
     return (
-        <>
-            Login
-        </>
+        <></>
     );
 }
  
